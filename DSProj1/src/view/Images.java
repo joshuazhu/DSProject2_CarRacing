@@ -1,16 +1,16 @@
 package view;
 
-import javafx.scene.image.Image;
+//import javafx.scene.image.Image;
 
 public class Images
 {
   //private static Image map = new Image("/resources/images/prologue.png");
  
 
-  public static Image getSniper()
+  /*public static Image getSniper()
   {
     return sniper;
-  }
+  }*/
 
 }
 
